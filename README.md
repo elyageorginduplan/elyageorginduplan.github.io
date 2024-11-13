@@ -1,3 +1,3 @@
 # elyageorginduplan.github.io
 Mon portfolio
-https://elyageorgin.github.io
+https://elyageorginduplan.github.io
